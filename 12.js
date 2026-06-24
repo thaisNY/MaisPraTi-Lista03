@@ -4,3 +4,4 @@ funções adicionar(tarefa), remover(tarefa) e exibir() que percorre todos os n�
 Simule um gerenciador de tarefas: adicione 4 tarefas, remova uma pelo nome e
 exiba a lista antes e depois.
 */
+
